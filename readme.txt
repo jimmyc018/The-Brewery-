@@ -1,4 +1,4 @@
-Name: Jimmy Chan
+The Brewery Application
 
 What are the highlights of your logic/code writing style?
 
@@ -23,7 +23,7 @@ where as in this implementation I have used randint to generate a random number 
 Any other notes you feel relevant for the evaluation of your solution:
 
 1) based on this implementation is based on assumptions in terms of mock data but can be based in real life application if it was implemented in a better way.
-2) during this implementation it got me thinking a lot of things that could be done in a different way where I keep continuously debugging my code every time I think something isn’t right
+2) during this implementation it got me thinking a lot of things that could be done in a different way where I keep continuously debugging my code every time I think something isnâ€™t right
 or can be done simpler but match the requirement.
 
 
